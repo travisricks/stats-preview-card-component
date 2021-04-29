@@ -29,11 +29,11 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live site URL](https://keen-ritchie-e4d1ce.netlify.app/)
 
 ## My process
 
-### Built with
+### Built with:
 
 - Semantic HTML5 markup
 - SCSS
