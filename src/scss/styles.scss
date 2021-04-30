@@ -41,6 +41,10 @@ body {
   box-shadow: 0 20px 20px -10px rgba(23, 25, 41, 0.2);
   border-radius: 8px;
 
+  @media (min-width: 376px) and (max-width: 900px) {
+    max-width: Min(600px, 80vw); /* capitalized so scss ignores it */
+  }
+
   @media (min-width: $desktop) {
     display: flex;
     flex-direction: row-reverse;
